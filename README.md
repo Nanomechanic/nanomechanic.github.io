@@ -7,5 +7,9 @@ Useful links:
   https://codepen.io/mpwi/pen/VQpeeX
   https://css-tricks.com/design-resource-sites/
   
+  https://codepen.io/saransh/pen/BKJun
+  https://webgradients.com/
+  https://speckyboy.com/css-background-effects/
+  
   flexbox centering
   css tricks pseudo elements
